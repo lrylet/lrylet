@@ -1,6 +1,7 @@
 ### Hi there, my name is Letícia 👋
 
 - 🌱 I’m currently learning MySQL and Java
+- 🔎 You can find me at discord, Let#6042
 - 😄 My pronouns: she/her
 
 <div align="center">
