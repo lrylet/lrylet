@@ -1,7 +1,6 @@
 ### Hi there, my name is Letícia 👋
 
-- 🌱 I’m currently learning Java
-- 🔎 You can find me at discord, Let#6042
+- 🌱 I’m currently learning Python and Javascript
 - 😄 My pronouns: she/her
 
 <div align="center">
